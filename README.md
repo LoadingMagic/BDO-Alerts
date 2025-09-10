@@ -2,6 +2,7 @@
 BLACK DESERT ONLINE DISCORD BOT
 
 https://bdoalerts.xyz
+https://discord.com/discovery/applications/1407796438410203287
 
 🎮 Live Boss Tracking
 Real-time world boss spawns, guild boss scheduling, and a comprehensive timer system for all game resets.

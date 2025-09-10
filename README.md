@@ -12,7 +12,8 @@ Click the link below to see a Black Desert Foundry guide on how the Golden Pig C
 Keeping this status updated with the most recent status is hard and we will strive for 99% accuracy.
 
 🌍 Multi-Region & Platform Support
-Full support for NA, EU, Console NA, and Console EU with region-specific boss timers and alerts to keep your community updated on the most recent boss spawns or alerts.
+Full support for NA, EU, Console NA, and Console EU with region-specific boss timers and alerts.
+Keep your community updated on the most recent boss spawns or alerts.
 
 💥 Custom Role Management
 Create custom roles with emoji reactions, descriptions, and individual messages per role for organized management.
@@ -25,9 +26,11 @@ Show off your logo and a nice welcome message or the rules of your server in one
 Automated coupon tracking with platform support, redeem links, and auto-refresh functionality to keep all active coupons listed.
 
 🔧 Easy Setup
-Guided server setup that creates channels, roles, alerts, and default messages for you with backup/restore functionality just in case something is deleted by mistake.
+Guided server setup that creates channels, roles, alerts, and default messages for you with backup/restore functionality
+just in case something is deleted by mistake.
 
-⚙️ Commands:
+✨ Use !help for full details.
+
 🌍 Multi-Region & Platform Support (ADMINISTRATOR)
 !region – View or change the BDO server region (NA, EU, Console NA, Console EU).
 !testregion – Test boss data fetching for a specific region.
@@ -35,23 +38,14 @@ Guided server setup that creates channels, roles, alerts, and default messages f
 🔧 Setup & Configuration (ADMINISTRATOR)
 !setup – Initial server setup with channels, roles, messages, alerts, and more.
 !config – View/Modify bot settings.
-!status – Show bot status, statistics, and configuration health.
+!status – Show bot status, statistics and configuration health.
 !restore – Restore server configuration from the latest backup.
 !migratedb – Update database save (not required).
 
-🔥 Slash Command Management (ADMINISTRATOR)
-(These are limited-use for now as slash commands are not fully implemented.)
-!syncslash – Sync slash commands to this server.
-!listslash – List all registered slash commands.
-!syncglobal – Sync commands globally (takes ~1 hour).
-!clearslash – Clear slash commands for this server.
-
 👥 Role Management (ADMINISTRATOR)
-(Ensure the bot’s role is higher than created roles to assign them.)
 !addrole – Create custom roles with emoji reactions and descriptions.
 !removerole – Remove custom role and its message.
 !refreshroles – Update all role messages & member counts.
-
 !listroles – List all custom roles (max 10 per server for now).
 
 🌟 Welcome Customization (ADMINISTRATOR)
@@ -70,7 +64,7 @@ Guided server setup that creates channels, roles, alerts, and default messages f
 !bosses – Current world boss spawns & timers.
 !timers – Game reset timers (Day/Night cycle, Imperial delivery, Bartering reset, etc.).
 !stopguildboss – Stop active guild boss event.
-!pigstatus – Display if Golden Pig Cave is open/closed.
+!pigstatus – Display if Golden Pig Cave is open or closed.
 !refreshpigstatus – Refresh Golden Pig Cave status.
 !coupons – List all active coupons with redeem links.
 !refreshcoupons – Force refresh coupon channel.
@@ -81,12 +75,8 @@ Guided server setup that creates channels, roles, alerts, and default messages f
 !cleanbossalerts – Clean duplicate boss alerts.
 
 🌟 Update Log v2.2.0
-Golden Pig Cave status added.
-QoL & localization changes for the bot.
-Ability to change names of channels & default roles.
-Reminder: Do not delete channels/roles unless you don’t want that feature.
-If all channels & categories are deleted, use !setup to restore.
-
-✨ Use !help for full details.
-
-✨ Use !help for full details.
+• Golden Pig Cave status added.
+• QoL & localization changes for the bot.
+• Ability to change names of channels & default roles.
+• Reminder: Do not delete channels/roles unless you don’t want that feature.
+• If all channels & categories are deleted, use !setup to restore.

@@ -5,16 +5,22 @@ https://bdoalerts.xyz
 
 🎮 Live Boss Tracking
 Real-time world boss spawns, guild boss scheduling, and a comprehensive timer system for all game resets.
+
 🐷 Golden Pig Cave Status (NEW!)
 Instantly see if Golden Pig Cave is open or closed, with quick refresh and alerts. Click the link below to see a Black Desert Foundry guide on how the Golden Pig Cave works. Keeping this status updated with the most recent status is hard and we will strive for 99% accuracy. guide.
+
 🌍 Multi-Region & Platform Support
 Full support for NA, EU, Console NA, and Console EU with region-specific boss timers and alerts to keep your community updated on the most recent boss spawns or alerts.
+
 💥 Custom Role Management
 Create custom roles with emoji reactions, descriptions, and individual messages per role for organized management.
+
 🌟 Welcome Customization
 Fully customizable welcome messages with titles, descriptions, banners (WEBP, PNG, JPEG), so you can show off your logo and a nice welcome message or the rules of your server in one place.
+
 🎟️ Coupon System
 Automated coupon tracking with platform support, redeem links, and auto-refresh functionality to keep all active coupons listed.
+
 🔧 Easy Setup
 Guided server setup that creates channels, roles, alerts, and default messages for you with backup/restore functionality just incase deleted by mistake.
 

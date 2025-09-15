@@ -1,4 +1,7 @@
-# BDO-Alerts
-BLACK DESERT ONLINE DISCORD BOT
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
 
-https://discord.com/oauth2/authorize?client_id=1407796438410203287&permissions=8&integration_type=0&scope=bot
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>

@@ -6,7 +6,7 @@
   <dd><a href="https://discord.com/oauth2/authorize?client_id=1407796438410203287&permissions=8&integration_type=0&scope=bot">Invite the Bot!</a></dd>
 
 <dl>
-  <dt>🌟 Key Features</dt>
+  <dt><b>🌟 Key Features</b></dt>
   <dd></dd>
 
   <dt>🎮 Live Boss Tracking</dt>

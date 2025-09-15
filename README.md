@@ -6,8 +6,9 @@
   <dd><a href="https://discord.com/oauth2/authorize?client_id=1407796438410203287&permissions=8&integration_type=0&scope=bot">Invite the Bot!</a></dd>
 
 <dl>
-  <dt><b>🌟 Key Features</b></dt>
+  <dt><strong>🌟 Key Features</strong></dt>
   <dd></dd>
+</dl>
 
   <dt>🎮 Live Boss Tracking</dt>
   <dd>Real-time world boss spawns, guild boss scheduling, and a comprehensive timer system for all game resets.</dd>

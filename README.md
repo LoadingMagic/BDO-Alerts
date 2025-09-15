@@ -1,7 +1,9 @@
-[BDO Alerts Offical Website](https://bdoalerts.xyz)
-[Support Discord](https://discord.gg/c2RZkZ7mAS)
-[DISCORD APP DIRECTORY LINK.](https://discord.com/discovery/applications/1407796438410203287)
-[Invite the Bot!](https://discord.com/oauth2/authorize?client_id=1407796438410203287&permissions=8&integration_type=0&scope=bot)
+<dl>
+  <dt>SHORTCUT LINKS:</dt>
+  <dd><a href="https://bdoalerts.xyz">BDO Alerts Official Website</a></dd>
+  <dd><a href="https://discord.gg/c2RZkZ7mAS">Support Discord</a></dd>
+  <dd><a href="https://discord.com/discovery/applications/1407796438410203287">Discord App Directory</a></dd>
+  <dd><a href="https://discord.com/oauth2/authorize?client_id=1407796438410203287&permissions=8&integration_type=0&scope=bot">Invite the Bot!</a></dd>
 
 <dl>
   <dt>🌟 Key Features</dt>

@@ -104,7 +104,6 @@
     • GOLDEN PIG CAVE STATUS ADDED.<br>
     • SOME QOL & LOCALIZATION CHANGES ALSO FOR THE BOT.<br>
     • YOU CAN ALSO CHANGE THE NAME OF CHANNELS & DEFAULT ROLES BUT DO NOT DELETE THEM UNLESS YOU DONT WANT THAT FEATURE WORKING. IF YOU DO DELETE ALL CHANNELS & CATEGORIES THEN REUSE !setup.<br>
-    Use !help for details.<br>
-    • /ping for admin test.
+    Use !help for details. • /ping for admin test.
   </dd>
 </dl>

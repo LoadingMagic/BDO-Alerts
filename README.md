@@ -1,5 +1,4 @@
 # BDO Alerts
-## Links
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # BDO Alerts
 
-A complete ecosystem for Black Desert Online — delivering real-time data across every Region and Platform through a Website, Discord Bot, Desktop App, Chrome Extension, and a free RESTful API.
+A complete ecosystem for Black Desert Online — delivering real-time data across every Region and Platform through a Website, Discord Bot, Desktop App, Chrome Extension, Twitch Extension, and a free RESTful API.
 
 ## Features
 
